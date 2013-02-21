@@ -8,3 +8,7 @@ chmod a+x ubuntu-12.04-postinstall.py
 
 # launch it with specific configuration file
 sudo ./ubuntu-12.04-postinstall.py -c https://raw.github.com/moriame/ubuntu/master/12.04/ubuntu-12.04-postinstall.cfg
+
+# remove files
+rm ubuntu-12.04-postinstall.py
+rm ubuntu-12.04-postinstall.cfg
