@@ -1,6 +1,9 @@
-# 12.04
+## Ubuntu 12.04
+This directory contains all my stuff related to Ubuntu 12.04
+
 * post-install.sh : script to run all the post-install
 * ubuntu-12.04-postinstall.cfg : this file aim to be used with the Nicolas Largo's script [Ubuntu post-installation script] (https://github.com/nicolargo/ubuntupostinstall)
+* dotfiles : my configuration's files
 
 
 ### Install script
@@ -13,6 +16,3 @@ or Wget:
 
     wget -qO- https://raw.github.com/moriame/ubuntu/master/12.04/post-install.sh | sh
 
-
-### dotfiles
-Directory with all my configurations files (bashrc, vimrc etc.)
