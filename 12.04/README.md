@@ -15,4 +15,3 @@ To install you could use the [post-install script](https://github.com/moriame/ub
 or Wget:
 
     wget -qO- https://raw.github.com/moriame/ubuntu/master/12.04/post-install.sh | sh
-
