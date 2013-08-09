@@ -114,7 +114,7 @@ fi
 
 # NVM (Node Version Manager)
 [[ -s /home/loic/.nvm/nvm.sh ]] && . /home/loic/.nvm/nvm.sh # This loads NVM
-nvm use 0.8.20
+nvm use default
 
 # RVM (Ruby Version Manager)
 PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
